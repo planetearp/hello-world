@@ -1,3 +1,3 @@
 # hello-world
-One small step to man
-ground control to major Tom
+One small step for a man
+Ground control to major Tom
